@@ -1,1 +1,3 @@
-
+In graph theory, the K-Core of a graph is a maximal subgraph in which every vertex has
+at least degree K. K-Cores are used to identify the most tightly connected parts of a graph
+and can provide insights into the overall structure and behavior of a network.
