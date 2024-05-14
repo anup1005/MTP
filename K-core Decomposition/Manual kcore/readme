@@ -1,1 +1,2 @@
-this is the manual opencl kcore 
+this is the manual OpenCL implementation of K-core
+the main file is kcd.cpp and kcdkernel.cl is the one which has the kernel rest of the files are required for parsing and opencl dependencies,and for running the code on Aqua Cluster. 
